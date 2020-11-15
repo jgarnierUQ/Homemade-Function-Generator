@@ -1,7 +1,5 @@
 # Homemade-Function-Generator
-Project at uni where I designed the hardware and firmware for a function generator capable of generating sine, square, triangle, sawtooth, and reverse sawtooth waves up to 10kHz.
-
-The whole project was comprised of three blocks that connected to each other: The function generator, a filter, and a power amplifier.
+The project that sparked my love of electronics! I made a function generator capable of generating sine, square, triangle, sawtooth, and reverse sawtooth waves up to 10kHz. It was part of a bigger device that also had a filter and power amplifier that all connected to each other.
 
 <img src="https://github.com/jgarnierUQ/Homemade-Function-Generator/blob/main/functionGenAllBlocks.JPG" alt="drawing" width="700"/>
 
